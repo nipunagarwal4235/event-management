@@ -1,5 +1,11 @@
+import ComingSoon from "./Components/ComingSoon";
+
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <ComingSoon></ComingSoon>
+    </div>
+  );
 }
 
 export default App;
