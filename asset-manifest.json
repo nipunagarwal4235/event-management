@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/event-management/static/css/main.4b0f002c.css",
+    "main.js": "/event-management/static/js/main.fefea38c.js",
+    "static/media/logo.png": "/event-management/static/media/logo.9bd391305c4414ed000c.png",
+    "index.html": "/event-management/index.html",
+    "main.4b0f002c.css.map": "/event-management/static/css/main.4b0f002c.css.map",
+    "main.fefea38c.js.map": "/event-management/static/js/main.fefea38c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0f002c.css",
+    "static/js/main.fefea38c.js"
+  ]
+}
